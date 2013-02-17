@@ -1,4 +1,4 @@
-(ns impressive-hiccups.elements
+(ns impressive-hiccups.element
   (:use [hiccup.def]
         [hiccup.element]))
 
